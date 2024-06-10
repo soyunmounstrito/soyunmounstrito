@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soyunmounstrito
-- 👀 I’m interested in videogames (PS/PC), comics, 
+- 👀 I’m interested in videogames (PS/PC), comics, movies, learning & fun
 - 🌱 I’m currently learning python, sql, data analytics
 - 💞️ I'm looking to collaborate in my learning
 - 📫 How to reach me ... think
